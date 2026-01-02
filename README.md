@@ -1,7 +1,7 @@
 # Sheetu Lohiya — Frontend Developer
 
 ## 👋 About Me
-I am a Frontend Developer with 1 year of hands-on experience at **Softic Digitech**, specializing in building high‑performance, responsive web applications using **React.js**, **JavaScript (ES6+), HTML5, CSS3, Tailwind CSS**, and modern UI principles.
+I am a Frontend Developer with 2 year of hands-on experience at **Softic Digitech**, specializing in building high‑performance, responsive web applications using **React.js**, **JavaScript (ES6+), HTML5, CSS3, Tailwind CSS**, and modern UI principles.
 
 ## 🚀 Skills
 - React.js  
